@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "165026553024",
+    "project_id": "smoke-pollution-monitori-14e21",
+    "storage_bucket": "smoke-pollution-monitori-14e21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165026553024:android:6c026bddae7a8158916125",
+        "android_client_info": {
+          "package_name": "com.example.smoke_polution_monitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165026553024-7nttv2pkqutjtt15efbu0j1paka3bbp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNfhzjsYrsQBqPnxaEKTOEhKgKdwIh_Pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165026553024-7nttv2pkqutjtt15efbu0j1paka3bbp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
